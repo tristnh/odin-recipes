@@ -1,0 +1,16 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(253, 232, 205);
+}
+
+h1{
+    text-align: center;
+    font-size: 80px;
+    color: black;
+}
+
+ul{
+    text-align: center;
+    list-style-type: none;
+    font-size: 30px;
+}
