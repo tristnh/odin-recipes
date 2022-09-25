@@ -1,0 +1,30 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(253, 232, 205);
+}
+
+img{
+    height: auto;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    text-align: center;
+    font-size: 80px;
+}
+
+h2{
+    font-size: 40px;
+    text-align: center;
+}
+
+.list{
+    font-size: 20px;
+}
+
+p{
+    font-size: 20px;
+}
